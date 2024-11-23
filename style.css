@@ -1,0 +1,35 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+#heading{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: white;
+}
+#changer{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+button{
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+    margin: 10px;
+    color: aliceblue;
+    border-width: 3px;
+    border-color: aliceblue;
+    font-weight: bolder;
+}
+.random{
+    color: #000;
+}
+#changer .red{
+    background-color: red;
+}
+#changer .green{
+    background-color: green;
+}#changer .blue{
+    background-color: blue;
+}
